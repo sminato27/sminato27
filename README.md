@@ -73,6 +73,82 @@ Interesse em arquitetura de software, microsserviços e construção de aplicaç
 
 ---
 
+# 📌 Projetos em Destaque
+
+### 🔹 GitHub Perfil
+Projeto de página web que consome a API pública do GitHub para exibir informações de um usuário, incluindo repositórios, estatísticas e perfil. Desenvolvido com foco em integração de APIs e organização de interface.
+
+🔗 Repositório:  
+https://github.com/sminato27/github_perfil
+
+🚀 Demo:  
+https://github-perfil-sm27.vercel.app/
+
+---
+
+### 🔹 Calculadora de IMC (React)
+Aplicação desenvolvida em React para cálculo do Índice de Massa Corporal com feedback visual e categorização do resultado.
+
+🔗 Repositório:  
+https://github.com/sminato27/calculadora_imc_reactjs
+
+🚀 Demo:  
+https://calculadora-imc-reactjs-sm27.vercel.app/
+
+---
+
+### 🔹 TodoList (Vue)
+Aplicação de gerenciamento de tarefas construída com Vue.js utilizando manipulação de estado e renderização dinâmica de componentes.
+
+🔗 Repositório:  
+https://github.com/sminato27/todolist_vuejs
+
+🚀 Demo:  
+https://todolist-vuejs-chi.vercel.app/
+
+---
+
+### 🔹 EBAC — Exercício Módulo 22
+Projeto front-end desenvolvido durante o curso da EBAC, com foco em práticas modernas de desenvolvimento web e organização de layout.
+
+🔗 Repositório:  
+https://github.com/sminato27/ebac_exercicio_aula_mod22
+
+🚀 Demo:  
+https://ebac-exercicio-aula-mod22.vercel.app/
+
+---
+
+### 🔹 Fanpage (Projeto Front-End EBAC)
+Landing page temática desenvolvida durante o curso com foco em estruturação HTML, estilização CSS e responsividade.
+
+🔗 Repositório:  
+https://github.com/sminato27/EBACFrontEnd_Projeto4
+
+🚀 Demo:  
+https://loganfanpage.vercel.app/
+
+---
+
+### 🔹 Sorteador (Grunt)
+Projeto que utiliza Grunt para automação de tarefas no front-end, demonstrando workflow de build e organização de projeto.
+
+🔗 Repositório:  
+https://github.com/sminato27/sorteador_grunt
+
+🚀 Demo:  
+https://sorteador-grunt-nu-two.vercel.app/
+
+---
+
+### 🔹 Projeto Backend EBAC
+Repositório com exercícios e implementações de backend do curso, incluindo construção de APIs REST, arquitetura de serviços e integração com banco de dados.
+
+🔗 Repositório:  
+https://github.com/sminato27/EBAC_Backend
+
+---
+
 # 📊 Estatísticas GitHub
 
 <p align="center">
