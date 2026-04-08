@@ -75,77 +75,91 @@ Interesse em arquitetura de software, microsserviços e construção de aplicaç
 
 # 📌 Projetos em Destaque
 
-### 🔹 GitHub Perfil
-Projeto de página web que consome a API pública do GitHub para exibir informações de um usuário, incluindo repositórios, estatísticas e perfil. Desenvolvido com foco em integração de APIs e organização de interface.
+<br>
 
-🔗 Repositório:  
-https://github.com/sminato27/github_perfil
+<!-- RussoGames — Destaque Principal -->
+<table>
+<tr>
+<td width="60" align="center">🛒</td>
+<td>
 
-🚀 Demo:  
-https://github-perfil-sm27.vercel.app/
+**[RussoGames — Loja de Games](https://github.com/sminato27/RussoGames---Loja-de-Games)**
+&nbsp;
+![Full Stack](https://img.shields.io/badge/Full%20Stack-0077B5?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
----
+Loja de ativação de games com **automação de preços via GitHub Actions**. Integra a API da Digiseller e Steam Store API para atualizar preços dinamicamente em `prices.json`, consumido em tempo real pelo frontend. Pipeline CI/CD completo com deploy contínuo na Vercel.
 
-### 🔹 Calculadora de IMC (React)
-Aplicação desenvolvida em React para cálculo do Índice de Massa Corporal com feedback visual e categorização do resultado.
+🔗 [Repositório](https://github.com/sminato27/RussoGames---Loja-de-Games) &nbsp;|&nbsp; 🚀 [Live Demo](https://russo-games-sminato27.vercel.app/)
 
-🔗 Repositório:  
-https://github.com/sminato27/calculadora_imc_reactjs
+</td>
+</tr>
+</table>
 
-🚀 Demo:  
-https://calculadora-imc-reactjs-sm27.vercel.app/
+<br>
 
----
+<!-- Grid 2x2 -->
+<table>
+<tr>
 
-### 🔹 TodoList (Vue)
-Aplicação de gerenciamento de tarefas construída com Vue.js utilizando manipulação de estado e renderização dinâmica de componentes.
+<td width="50%" valign="top">
 
-🔗 Repositório:  
-https://github.com/sminato27/todolist_vuejs
+☕ **[SistemaEstoque - Em Desenvolvimento](https://github.com/sminato27/Projeto-SistemaEstoque-Full-Stack)**
+&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-🚀 Demo:  
-https://todolist-vuejs-chi.vercel.app/
+API REST de gestão de estoque com Spring Boot. Arquitetura em camadas, padrão Repository, integração com banco relacional e endpoints documentados.
 
----
+🔗 [Repositório](https://github.com/sminato27/Projeto-SistemaEstoque-Full-Stack)
 
-### 🔹 EBAC — Exercício Módulo 22
-Projeto front-end desenvolvido durante o curso da EBAC, com foco em práticas modernas de desenvolvimento web e organização de layout.
+</td>
 
-🔗 Repositório:  
-https://github.com/sminato27/ebac_exercicio_aula_mod22
+<td width="50%" valign="top">
 
-🚀 Demo:  
-https://ebac-exercicio-aula-mod22.vercel.app/
+🍕 **[E-food](https://github.com/sminato27/Projeto_efood_EBAC)**
+&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
----
+E-commerce de delivery com carrinho de compras, catálogo de restaurantes e fluxo de pedido completo. Consome API REST com gerenciamento de estado e componentização avançada em React + TypeScript.
 
-### 🔹 Fanpage (Projeto Front-End EBAC)
-Landing page temática desenvolvida durante o curso com foco em estruturação HTML, estilização CSS e responsividade.
+🔗 [Repositório](https://github.com/sminato27/Projeto_efood_EBAC) &nbsp;|&nbsp; 🚀 [Demo](https://e-commerce-sminato27.vercel.app/)
 
-🔗 Repositório:  
-https://github.com/sminato27/EBACFrontEnd_Projeto4
+</td>
 
-🚀 Demo:  
-https://loganfanpage.vercel.app/
+</tr>
+<tr>
 
----
+<td width="50%" valign="top">
 
-### 🔹 Sorteador (Grunt)
-Projeto que utiliza Grunt para automação de tarefas no front-end, demonstrando workflow de build e organização de projeto.
+✅ **[TodoList](https://github.com/sminato27/todolist_vuejs)**
+&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 
-🔗 Repositório:  
-https://github.com/sminato27/sorteador_grunt
+Gerenciador de tarefas com renderização dinâmica de componentes, estado reativo e persistência local em Vue.js. Design limpo e responsivo.
 
-🚀 Demo:  
-https://sorteador-grunt-nu-two.vercel.app/
+🔗 [Repositório](https://github.com/sminato27/todolist_vuejs) &nbsp;|&nbsp; 🚀 [Demo](https://todolist-vuejs-chi.vercel.app/)
 
----
+</td>
 
-### 🔹 Projeto Backend EBAC
-Repositório com exercícios e implementações de backend do curso, incluindo construção de APIs REST, arquitetura de serviços e integração com banco de dados.
+<td width="50%" valign="top">
 
-🔗 Repositório:  
-https://github.com/sminato27/EBAC_Backend
+⚖️ **[Calculadora IMC](https://github.com/sminato27/calculadora_imc_reactjs)**
+&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+Calculadora de IMC com feedback visual imediato e categorização do resultado. Focada em lógica de negócio e experiência do usuário com React.
+
+🔗 [Repositório](https://github.com/sminato27/calculadora_imc_reactjs) &nbsp;|&nbsp; 🚀 [Demo](https://calculadora-imc-reactjs-sm27.vercel.app/)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
