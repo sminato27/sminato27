@@ -1,4 +1,4 @@
-# <img width="32" src="https://github.com/user-attachments/assets/82ba3270-9dad-4c55-b6aa-1717434833f8" /> Guilherme (Minato) Paim
+# <img width="32" src="https://github.com/user-attachments/assets/82ba3270-9dad-4c55-b6aa-1717434833f8" /> Guilherme Augusto (Minato) Paim
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+APIs+REST;Backend+Focused+Engineer;Docker+%7C+SQL+%7C+NoSQL&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22">
