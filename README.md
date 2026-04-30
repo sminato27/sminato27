@@ -16,6 +16,12 @@ Interesse em arquitetura de software, microsserviços e construção de aplicaç
 
 ---
 
+# 📌 Objetivo Profissional
+
+Atuar como **Desenvolvedor Java Backend ou Full Stack**, contribuindo na construção de sistemas escaláveis e bem estruturados, aplicando boas práticas de engenharia de software e arquitetura moderna.
+
+---
+
 # 🌐 Conecte-se comigo
 
 <p align="center">
@@ -201,9 +207,3 @@ Calculadora de IMC com feedback visual imediato e categorização do resultado. 
 • Containers e ambientes com Docker  
 • Boas práticas de versionamento com Git  
 • Estruturação de aplicações Full Stack
-
----
-
-# 📌 Objetivo Profissional
-
-Atuar como **Desenvolvedor Java Backend ou Full Stack**, contribuindo na construção de sistemas escaláveis e bem estruturados, aplicando boas práticas de engenharia de software e arquitetura moderna.
